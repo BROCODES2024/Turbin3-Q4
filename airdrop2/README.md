@@ -36,10 +36,10 @@ Before you begin, you will need the following tools installed on your system. (N
 
 1.  **Clone the Repository**
 
+    clone the repo
+
     ```bash
-    # Since I see your GitHub is BROCODES2024, you'd clone your fork
-    git clone https://github.com/BROCODES2024/solana-rust-prereqs.git
-    cd solana-rust-prereqs
+    cd airdrop2
     ```
 
 2.  **Create Your Wallet**
